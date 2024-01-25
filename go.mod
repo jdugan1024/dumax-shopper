@@ -1,6 +1,6 @@
 module github.com/jdugan1024/dumax-shopper
 
-go 1.21.6
+go 1.21
 
 require (
 	github.com/friendsofgo/errors v0.9.2
